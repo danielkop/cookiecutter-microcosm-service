@@ -22,3 +22,5 @@ Project template for a `microcosm`-based service using Flask and SQLAlchemy with
         git init
         git add .
         git commit -m "Initial commit"
+
+6. Follow the instructions in the readme.md file in `{{ repo_name }}` directory
